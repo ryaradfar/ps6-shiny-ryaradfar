@@ -14,3 +14,5 @@ The text output below the widget tells the user which years they are viewing.
 
 
 https://ryaradfar.shinyapps.io/ps6-ryaradfar/
+
+I spent about 12 hours on this problem set.
